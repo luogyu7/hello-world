@@ -1,2 +1,2 @@
 # hello-world
-It's my new repository
+I‘m a student.
